@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://username.github.io"><b>🚀 View Portfolio</b></a>
+  <a href="https://isougataghosh.github.io"><b>🚀 View Portfolio</b></a>
 </p>
 
 <hr>
@@ -42,7 +42,7 @@
 <h2>🎬 Featured Work</h2>
 
 <p>
-  👉 <a href="https://username.github.io"><b>Explore Full Portfolio</b></a>
+  👉 <a href="https://isougataghosh.github.io"><b>Explore Full Portfolio</b></a>
 </p>
 
 <h2>🛠️ Tools & Stack</h2>
@@ -72,7 +72,7 @@
 
 <p align="center">
   ⭐ Looking for high-volume, performance-driven video content?<br>
-  👉 <a href="https://username.github.io"><b>Visit Portfolio</b></a>
+  👉 <a href="https://isougataghosh.github.io"><b>Visit Portfolio</b></a>
 
 <!--
 **dipanjan51/dipanjan51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
