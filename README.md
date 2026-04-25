@@ -58,10 +58,10 @@
 <h2>🌐 Presence</h2>
 
 <ul>
-  <li>YouTube</li>
-  <li>Instagram</li>
-  <li>LinkedIn</li>
-  <li>Behance</li>
+  <li><a href="https://youtube.com/@sougataghosh">YouTube</a></li>
+  <li><a href="https://instagram.com/isougataghosh">Instagram</a></li>
+  <li><a href="https://facebook.com/isougataghosh">Facebook</a></li>
+  <li><a href="https://https://www.behance.net/isougataghosh">Behance</a></li>
 </ul>
 
 <h2>📫 Contact</h2>
