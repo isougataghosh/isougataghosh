@@ -1,7 +1,7 @@
 <h1 align="center">Sougata Ghosh</h1>
 
 <p align="center">
-  🎬 Video Editor • Motion Graphics • AI Video Production
+  🎬 Video Editor • Internet Personality
 </p>
 
 <p align="center">
