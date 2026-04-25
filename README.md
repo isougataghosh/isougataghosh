@@ -61,7 +61,7 @@
   <li><a href="https://youtube.com/@sougataghosh">YouTube</a></li>
   <li><a href="https://instagram.com/isougataghosh">Instagram</a></li>
   <li><a href="https://facebook.com/isougataghosh">Facebook</a></li>
-  <li><a href="https://https://www.behance.net/isougataghosh">Behance</a></li>
+  <li><a href="https://www.behance.net/isougataghosh">Behance</a></li>
 </ul>
 
 <h2>📫 Contact</h2>
